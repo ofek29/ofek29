@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ofek29/ofek29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ofek Avrahami! 👋  
 
-Here are some ideas to get you started:
+🚀 **Software Developer | 💡 Problem Solver | 🔍 Self-Learner**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏎️ Currently building a **Real-Time Race Event Platform**  
+- 📡 Exploring **Apache Kafka** for scalable event streaming  
+- 👀 Open to new opportunities as a **Software Developer**  
+
+##  Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=badge&logo=linkedin)](https://linkedin.com/in/ofek-avrahami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=badge&logo=gmail&logoColor=white)](mailto:ofek.av95@gmail.com)
