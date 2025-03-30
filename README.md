@@ -9,5 +9,5 @@ Hi, I'm Ofek Avrahami! 👋
 - 👀 Open to new opportunities as a **Software Developer**  
 
 ##  Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=badge&logo=linkedin)](https://linkedin.com/in/ofek-avrahami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=badge&logo=gmail&logoColor=white)](mailto:ofek.av95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ofek-avrahami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ofek.av95@gmail.com)
